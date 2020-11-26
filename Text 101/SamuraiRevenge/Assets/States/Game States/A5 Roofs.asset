@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff7256c07c18914998a679289d40c2d, type: 3}
+  m_Name: A5 Roofs
+  m_EditorClassIdentifier: 
+  storyText: 'You decide to go up on roofs, though, unfortunetaly, during your studying
+    you skipped most of the balance trainings.
+
+    You successfully make first several
+    leaps and become more confident. But the figure doesn''t seem to loose their
+    speed. And yet you don''t let them go too far.
+
+    Now you notice that there''s
+    no more roofs ahead. As the figure approaches the end, they leap and make somersault
+    as they land. You''re not sure about this, but you must decide immediately!
+
+
+    You
+    can:
+
+    1: Leap and try to make somersault.
+
+    2: Accurately climb down.'
+  nextStates:
+  - {fileID: 11400000, guid: c8f6d6a48a9952c45a5bce090e563d22, type: 2}
+  - {fileID: 11400000, guid: 8510b0472b35c6f4cb47fefd107d4a7e, type: 2}

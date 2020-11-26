@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff7256c07c18914998a679289d40c2d, type: 3}
+  m_Name: A2 Master
+  m_EditorClassIdentifier: 
+  storyText: 'You rapidly and nervously, and yet with some determination, come close
+    to your father. You are trying to stop bleeding with your hand and shout for
+    help. But he grips your hand and watches right to your eyes. He says, "There''s
+    no time, you must capture him".
+
+    Then, still strongly gripping your hand,
+    he quickly draws knife, lying under him, and gives it to you. "Cme!....", blood
+    inside his mouth intervened him.
+
+
+    You can:
+
+    1: Run after that figure.'
+  nextStates:
+  - {fileID: 11400000, guid: 2de33d18811315b4f8eaa2be1c5dc063, type: 2}

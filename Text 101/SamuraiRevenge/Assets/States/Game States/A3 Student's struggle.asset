@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff7256c07c18914998a679289d40c2d, type: 3}
+  m_Name: A3 Student's struggle
+  m_EditorClassIdentifier: 
+  storyText: 'You rush out of your house into the camp. There''s an early morning
+    outside, so nobody''s out. However, your shouts must have woke up somebody. At
+    some distance there''s struggle between a half-naked samurai -student - and the
+    figure, who must have accidentally crushed in him. As you run toward them, the
+    figure with one finest movement, cuts student''s throat. But it gave you enough
+    time to come closely.
+
+
+    You can:
+
+    1: Chase.'
+  nextStates:
+  - {fileID: 11400000, guid: 62e3489aaa408a1448663c6f38b2bee8, type: 2}

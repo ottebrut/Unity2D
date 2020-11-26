@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff7256c07c18914998a679289d40c2d, type: 3}
+  m_Name: A8 Not so adventurous climbing down
+  m_EditorClassIdentifier: 
+  storyText: 'Very carefully you climb down from 4-meters high roof. In the end you
+    make one bad movement and landing isn''t so good. But you still can chase, though
+    climbing down have seriously slowed you down. And the figure is going further
+    and further. You start to loose your hope to capture them. But now you remember
+    that there''s one shuriken in your right pocket, which your forgot to return
+    yesterday. Maybe on shuriken''s sessions you were more attentive, than on leap
+    ones.
+
+
+    You can:
+
+    1: Continue running.
+
+    2: Shoot your shuriken.'
+  nextStates:
+  - {fileID: 11400000, guid: a4e97e4e892f11840858eb9d9477811a, type: 2}
+  - {fileID: 11400000, guid: 7fa6231df10b8fb499d274b65271cb1e, type: 2}

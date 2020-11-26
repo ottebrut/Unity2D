@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff7256c07c18914998a679289d40c2d, type: 3}
+  m_Name: A1 Wake Up
+  m_EditorClassIdentifier: 
+  storyText: "You wake up and hear rustling sounds on the right. Your turn your head
+    and see that your master is struggling with some figure, who is trying to stab
+    him with the knife. The figure notices you woke up, but their head is completely
+    clothed and you can't see who they are. \r\nAs you rapidly get up, the figure
+    finally makes one strong movement, putting the knife inside master's chest and
+    immediately starts running off.\r\n\r\nYou can:\r\n1: Grab your katana and run
+    after that figure.\n2: Come up to your bleeding master."
+  nextStates:
+  - {fileID: 11400000, guid: faae0bfecf0dccd4e817db638666d07e, type: 2}
+  - {fileID: 11400000, guid: bca88d3d3d1d89346927fe2d2c83f6ec, type: 2}

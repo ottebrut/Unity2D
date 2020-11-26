@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff7256c07c18914998a679289d40c2d, type: 3}
+  m_Name: A12 Mark was left
+  m_EditorClassIdentifier: 
+  storyText: 'You shoot and in five seconds shuriken strikes right into figure''s
+    shoulder - not what you expected, but still good enough. They stumble and fall,
+    but only for a moment. They immediately stand up. After that you continue chasing
+    for some time, but eventually the figure runs off you.
+
+    You have no other
+    choice, but to return to camp. While you''re returning, you come close to the
+    place, where the figure fell. And now you notice something you missed, something
+    shying silver.
+
+
+    You can:
+
+    1: Take a closer look on that shiny thing.'
+  nextStates:
+  - {fileID: 11400000, guid: 4848051b9faf93248852a30658c37dcd, type: 2}

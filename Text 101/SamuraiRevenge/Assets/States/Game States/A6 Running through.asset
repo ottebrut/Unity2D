@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff7256c07c18914998a679289d40c2d, type: 3}
+  m_Name: A6 Running through
+  m_EditorClassIdentifier: 
+  storyText: 'You continue your chasing through alleys, while the figure keep leaping
+    on roofs. But fortunately for you, leaps are big enough to slow down the figure,
+    and roofs have only one direction. So as they end, you stand right below the
+    figure. Now they have no other choice, but to jump down.
+
+
+    You can:
+
+    1:
+    Wait till they be down and continue chasing.
+
+    2: Try to knock off, while
+    they are falling .'
+  nextStates:
+  - {fileID: 11400000, guid: a4e97e4e892f11840858eb9d9477811a, type: 2}
+  - {fileID: 11400000, guid: 913487a0ae7ad02439fbc99d323c7c8c, type: 2}

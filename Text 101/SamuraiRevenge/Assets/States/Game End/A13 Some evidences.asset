@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff7256c07c18914998a679289d40c2d, type: 3}
+  m_Name: A13 Some evidences
+  m_EditorClassIdentifier: 
+  storyText: 'As you take the thing up, you see a usual shuriken. But then you notice
+    that there''s nothing usual about it. Even holding it makes your fingers feel
+    pain. As you clean it off some dirt, you see that there''s symbol in the center
+    of it. You don''t know what they mean, but it''s already obvious that this evidence
+    will serve as the beginning of the tracking.
+
+
+    You can:
+
+    1: Play again,
+    if you like.
+
+    2: Enjoy the consideration.'
+  nextStates:
+  - {fileID: 11400000, guid: 364ef0d3dec9b9c48b4513734cad0684, type: 2}

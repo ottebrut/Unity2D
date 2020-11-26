@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff7256c07c18914998a679289d40c2d, type: 3}
+  m_Name: A16 The tracking will be begun
+  m_EditorClassIdentifier: 
+  storyText: "Though the figure has run off, you left a big, noticeable scar on their
+    cheek. One of tjhe students takes up bits of some black fabric and hand it to
+    you. The fabric is silk, you've never saw such a work before. \nWell, that's
+    not much, but enough for the start. You know, where to ask about it in the city.
+    And you also know, that it will be hard to hide such a scar.\n\nYou can:\n1:
+    Play again, try something else.\n2: Wait for the sequel."
+  nextStates:
+  - {fileID: 11400000, guid: 364ef0d3dec9b9c48b4513734cad0684, type: 2}

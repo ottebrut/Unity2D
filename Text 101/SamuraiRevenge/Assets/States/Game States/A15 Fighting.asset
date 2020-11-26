@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff7256c07c18914998a679289d40c2d, type: 3}
+  m_Name: A15 Fighting
+  m_EditorClassIdentifier: 
+  storyText: 'You stand in a pose, while the figure carefully, holding knife in one
+    hand, goes in circles with almost imperceptible limping. You make several attacks,
+    but they dodge and slightly cut your arm. You are a little stunned, but quickly
+    concentrate again.
+
+    You hear that behind you students start to gather, and
+    the figure understands that must hurry. They start to pull something off their
+    pockets and, as you notice that strange movement, you make a quick thrust - figure
+    tries to dodge - but you were able to cut their cheek and reap part of their
+    clothes. However, the figure managed to stand and throw something at you, which
+    exploded with a lot of smoke. You feel pain in your eyes and can''t do anything
+    for some time.
+
+    As other students come closer, you''re able to see, but the
+    figure is long gone.
+
+
+    You can:
+
+    1: Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: f88f01853dd81604db309bbd5f964dd5, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff7256c07c18914998a679289d40c2d, type: 3}
+  m_Name: A9 (Un)lucky chasing
+  m_EditorClassIdentifier: 
+  storyText: 'As you continue your chasing, you understand that there''s no way you
+    can reach the figure. But suddenly a small hurtling rock comes right into figure''s
+    head, causing them to fall. You turn your head left and notice a small boy, holding
+    slingshot in his hand. The figure stands up quickly and finally runs off you.
+
+    But
+    you notice, that where they fall something small is lying, somthing silver, as
+    it seems. You come closely.
+
+
+    You can:
+
+    1: Take a closer look on that
+    thing.'
+  nextStates:
+  - {fileID: 11400000, guid: 4848051b9faf93248852a30658c37dcd, type: 2}
